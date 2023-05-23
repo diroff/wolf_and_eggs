@@ -1,4 +1,4 @@
-#Wolf and eggs
+# Wolf and eggs
 A small project developed within the framework of the "Start the Game" competition
 Test it:
 
